@@ -6,7 +6,7 @@
 
   <groupId>lt.saltyjuice.dragas</groupId>
   <artifactId>dependabot-sample-library</artifactId>
-  <version>1.1.0</version>
+  <version>1.2.0</version>
 
   <properties>
     <maven.compiler.source>11</maven.compiler.source>
